@@ -1,0 +1,6 @@
+c:\users\razib\documents\visual studio 2015\Projects\DressingApp\DressingApp\bin\Debug\DressingApp.exe.config
+c:\users\razib\documents\visual studio 2015\Projects\DressingApp\DressingApp\bin\Debug\DressingApp.exe
+c:\users\razib\documents\visual studio 2015\Projects\DressingApp\DressingApp\bin\Debug\DressingApp.pdb
+c:\users\razib\documents\visual studio 2015\Projects\DressingApp\DressingApp\obj\Debug\DressingApp.csprojResolveAssemblyReference.cache
+c:\users\razib\documents\visual studio 2015\Projects\DressingApp\DressingApp\obj\Debug\DressingApp.exe
+c:\users\razib\documents\visual studio 2015\Projects\DressingApp\DressingApp\obj\Debug\DressingApp.pdb
